@@ -1,3 +1,2 @@
 CS1C ADVANCED DATA STRUCTURES & ALGORITHMS IN JAVA
-Foothill College
 Thanh Nguyen
